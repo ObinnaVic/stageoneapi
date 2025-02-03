@@ -10,9 +10,11 @@ To run the project locally, use the following steps:
 Endpoint Usage:
 
 GET: https://stageoneapi.onrender.com:
-/details - JSON response format example {"email": "my email", "current_daetime": "current date and time in ISO format", github_url": "github repo url"}
+
+* /details - JSON response format example {"email": "my email", "current_daetime": "current date and time in ISO format", github_url": "github repo url"}
 
 exmaple: 
-GET: https://stageoneapi.onrender.com/details => {"email":"victornkire777@gmail.com","current_datetime":"2025-02-03T13:46:08.217Z","github_url":"https://github.com/ObinnaVic/stageoneapi"}
+GET: https://stageoneapi.onrender.com/details 
+=> {"email":"victornkire777@gmail.com","current_datetime":"2025-02-03T13:46:08.217Z","github_url":"https://github.com/ObinnaVic/stageoneapi"}
 
 Backlink: https://hng.tech/hire/nodejs-developers
